@@ -1,25 +1,25 @@
-# Accessibility Statement Generator
-
-> Generate WCAG-compliant accessibility statements and audit evidence
+# Accessibility Statement Gen
 
 Generate WCAG-compliant accessibility statements and audit evidence.
 
-**Live:** https://ziontechgroup.com/accessibility-statement-gen/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+**Live app:** https://ziontechgroup.com/accessibility-statement-gen/
+**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
 ## Features
-- WCAG 2.2 conformance statement generator
-- Audit evidence packs mapped to success criteria
-- Multi-language statement publishing
-- Compliance status tracking per site and app
+- Ready-to-use, zero-install web app
+- Interlinked with the Zion App Network — every app links to related tools
+- Open source under the Zion-support GitHub organization
 
-## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [Voice of Customer Hub](https://github.com/Zion-support/voice-of-customer-hub) — https://ziontechgroup.com/voice-of-customer-hub/
-- [Returns Optimization AI](https://github.com/Zion-support/returns-optimization-ai) — https://ziontechgroup.com/returns-optimization-ai/
-- [Shipping Delay Alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/
-- [License Renewal Planner](https://github.com/Zion-support/license-renewal-planner) — https://ziontechgroup.com/license-renewal-planner/
-- [Data Retention Enforcer](https://github.com/Zion-support/data-retention-enforcer) — https://ziontechgroup.com/data-retention-enforcer/
+## Related apps
+- [Accessibility Checker](https://github.com/Zion-support/accessibility-checker) — [live](https://ziontechgroup.com/accessibility-checker/)
+- [AI Accessibility Auditor](https://github.com/Zion-support/ai-accessibility-auditor) — [live](https://ziontechgroup.com/ai-accessibility-auditor/)
+- [Zion AI Accessibility Auditor](https://github.com/Zion-support/zion-ai-accessibility-auditor) — [live](https://ziontechgroup.com/zion-ai-accessibility-auditor/)
+- [Zion AI Accessibility Fixer](https://github.com/Zion-support/zion-ai-accessibility-fixer) — [live](https://ziontechgroup.com/zion-ai-accessibility-fixer/)
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+## Links
+- Live: https://ziontechgroup.com/accessibility-statement-gen/
+- App Network showcase: https://ziontechgroup.com/apps/
+- Homepage: https://ziontechgroup.com/
+- GitHub org: https://github.com/Zion-support
+
+© 2026 Zion Tech Group
