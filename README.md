@@ -15,6 +15,8 @@ Generate WCAG-compliant accessibility statements and audit evidence.
 - [AI Accessibility Auditor](https://github.com/Zion-support/ai-accessibility-auditor) — [live](https://ziontechgroup.com/ai-accessibility-auditor/)
 - [Zion AI Accessibility Auditor](https://github.com/Zion-support/zion-ai-accessibility-auditor) — [live](https://ziontechgroup.com/zion-ai-accessibility-auditor/)
 - [Zion AI Accessibility Fixer](https://github.com/Zion-support/zion-ai-accessibility-fixer) — [live](https://ziontechgroup.com/zion-ai-accessibility-fixer/)
+- [Data Retention Enforcer](https://ziontechgroup.com/data-retention-enforcer/) — retention & legal holds ([repo](https://github.com/Zion-support/data-retention-enforcer))
+- [Security Awareness Coach](https://ziontechgroup.com/security-awareness-coach/) — training & phishing coaching ([repo](https://github.com/Zion-support/security-awareness-coach))
 
 ## Links
 - Live: https://ziontechgroup.com/accessibility-statement-gen/
@@ -22,4 +24,8 @@ Generate WCAG-compliant accessibility statements and audit evidence.
 - Homepage: https://ziontechgroup.com/
 - GitHub org: https://github.com/Zion-support
 
-© 2026 Zion Tech Group
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md) · [Customer Success & Retention](https://github.com/Zion-support/zion-network/blob/main/network/customer-success-retention.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://ziontechgroup.com/en/plans/)
+
+---
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
